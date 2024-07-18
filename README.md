@@ -13,7 +13,7 @@ Tasks:
 6. Choose the best from above 3 Machine learning Alogorithms. 
 
 #### Data Source: 
-Download the customer.csv dataset from [Download](https://github.com/user-attachments/files/16283579/customer_churn.csv/tree/main)
+Download the customer.csv dataset from [Download](https://github.com/user-attachments/files/16283579/customer_churn.csv)
 #### Tools
  JupyterNotebook
 
